@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-6V4EGF5</Machine>
+    <WindowsUser>Mitch</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>eb44b1cb-4af6-4966-a1bc-ba5d6b5ba15c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mitch</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F785C60B9E67F06D1A97A0B8E751F2F2D82FF3E1883A1BA9617A35BA1AF75A6E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>eb44b1cb-4af6-4966-a1bc-ba5d6b5ba15c_1.0.0.0_arm__e2gzzk631mmcr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>eb44b1cb-4af6-4966-a1bc-ba5d6b5ba15c_e2gzzk631mmcr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>eb44b1cb-4af6-4966-a1bc-ba5d6b5ba15c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mitch</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-11T16:12:43.771</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-06T01:33:15.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\blinkey.dll">
+      <PackagePath>blinkey.dll</PackagePath>
+      <Modified>2017-08-11T16:12:43.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\blinkey.exe">
+      <PackagePath>blinkey.exe</PackagePath>
+      <Modified>2017-08-11T16:12:43.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\blinkey.pdb">
+      <PackagePath>blinkey.pdb</PackagePath>
+      <Modified>2017-08-11T16:12:43.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-14T02:43:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-11T16:12:30.261</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

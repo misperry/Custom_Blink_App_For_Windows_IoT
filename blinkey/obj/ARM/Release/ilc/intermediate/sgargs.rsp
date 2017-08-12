@@ -1,0 +1,10 @@
+/out:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\Mitch\Documents\Visual Studio 2017\Projects\blinkey\blinkey\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
